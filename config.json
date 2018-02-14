@@ -1,0 +1,15 @@
+{
+    "title": "baksalds",
+    "baseURL": "https:\/\/videos.sddaksdmje.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "sddaksdmje.com"
+    }
+}
